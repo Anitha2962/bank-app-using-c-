@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\Bank App\bin\Debug\Bank App.exe.config
+D:\EQ SOFT\C#\Bank App\bin\Debug\Bank App.exe
+D:\EQ SOFT\C#\Bank App\bin\Debug\Bank App.pdb
+D:\EQ SOFT\C#\Bank App\obj\Debug\Bank App.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\Bank App\obj\Debug\Bank App.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\Bank App\obj\Debug\Bank App.exe
+D:\EQ SOFT\C#\Bank App\obj\Debug\Bank App.pdb
